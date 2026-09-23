@@ -1,4 +1,4 @@
-# Ejercicios - Tema
+# Ejercicios - Funciones sin parámetros
 
 Ubíquese en la **carpeta fuente del proyecto** deseado, use:
 
